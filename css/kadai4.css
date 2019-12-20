@@ -1,12 +1,30 @@
-h1{
+h1.oomidashi{
     text-align: center;
+    background-color: green;
+    color: lightgray;
 }
-h2{
+h2.nakamidashi1{
     text-align: center;
+    background-color: aqua;
+    color: azure;
 }
+h2.nakamidashi2{
+    text-align: center;
+    background-color: lightgreen;
+    color: antiquewhite;
+        
+}
+h1.link{
+    text-align: center;
+    background-color: lightblue;
+    color: black;
+}
+
+
+
+
 body{
     background-image: url("../images/63525500-%E7%99%BD%E8%83%8C%E6%99%AF%E7%94%BB%E5%83%8F%E3%81%AE%E7%B4%99%E3%82%92%E3%81%8F%E3%81%97%E3%82%83%E3%81%8F%E3%81%97%E3%82%83.jpg")
 }
-h1#dake{
-    background-color: aqua;
-}
+
+   
