@@ -1,0 +1,81 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: aquamarine;
+    text-align: :left;
+    
+}
+div.article{
+    width:1000px;
+    height:320px;
+    background-color: antiquewhite;
+    margin-top:20px;
+    margin-bottom: 20px;
+    display:inline-block;
+    font-size: 0px;
+    
+}
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:aqua;
+}
+span.left{
+    vertical-align:top;
+    width: 250px;
+    height:320px;
+    background-color: gray;
+    margin-right: 50px;
+    display:inline-block;
+    
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+div.menu2{
+    margin-top: 10px;
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+div.menu3{
+    margin-top: 10px;
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+span.right{
+    vertical-align: top;
+    width: 700px;
+    height: 320px;
+    background-color: gray;
+    display: inline-block;
+}
+div.gazou{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    
+}
+div.bunshou{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    font-size: 15px;
+    
+}
+
+div.footer{
+    text-align: right;
+}
+
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
