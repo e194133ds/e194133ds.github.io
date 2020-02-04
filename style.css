@@ -1,0 +1,109 @@
+div.title{
+    width:auto;
+    height:40px;
+    background-color: lightgreen;
+    text-align:center;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+div.article{
+    width:1070px;
+    height:600px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    display:inline-block;
+    font-size: 0px;
+    
+}
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:aqua;
+}
+span.left{
+    vertical-align:top;
+    width: 250px;
+    height:320px;
+    background-color: 
+    margin-right: 50px;
+    display:inline-block;
+    
+}
+div.menu1{
+    width: 250px;
+    height: 40px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    color: azure;
+}
+div.menu2{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    color: azure;
+}
+div.menu3{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    color: azure;
+}
+div.menu4{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    color: azure;
+}
+div.menu5{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    color: azure;
+}
+span.right{
+    vertical-align: top;
+    width: 770px;
+    height: 514px;
+    background-color: gray;
+    display: inline-block;
+}
+div.gazou{
+    width: 770px;
+    height: 514px;
+    background-color: black;
+    background-image: url("../images/49ef72b19c9b2addea8db508ca9b00b7-1-770x514.jpg")
+    
+}
+div.bunshou{
+    width: 770px;
+    height: 20px;
+    background-color: skyblue;
+    font-size: 15px;
+    
+    
+}
+
+div.footer{
+    width: auto;
+    
+    
+    
+}
+
+
+div.wrap{
+    width:1070px;
+    margin:0px auto;
+}
+body{
+    background-image:  url("../images/63525500-白背景画像の紙をくしゃくしゃ.jpg")
+}
